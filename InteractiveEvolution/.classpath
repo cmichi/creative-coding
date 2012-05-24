@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/Applications/Editoren/Processing.app/Contents/Resources/Java/libraries/opengl/library/jogl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Applications/Editoren/Processing.app/Contents/Resources/Java/libraries/opengl/library"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Applications/Editoren/Processing.app/Contents/Resources/Java/libraries/opengl/library/opengl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Applications/Editoren/Processing.app/Contents/Resources/Java/libraries/opengl/library"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Applications/Editoren/Processing.app/Contents/Resources/Java/core.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Applications/Editoren/Processing.app/Contents/Resources/Java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Applications/Editoren/Processing.app/Contents/Resources/Java/libraries/opengl/library/gluegen-rt.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Applications/Editoren/Processing.app/Contents/Resources/Java/libraries/opengl/library"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/michi/Documents/Processing/libraries/fullscreen/library/fullscreen.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/michi/Documents/Processing/libraries/fullscreen/library"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
